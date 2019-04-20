@@ -35,3 +35,11 @@
 /home/luz211/acrobot_workspace/build/gtest/googlemock/gtest/CMakeFiles/list_install_components.dir
 /home/luz211/acrobot_workspace/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir
 /home/luz211/acrobot_workspace/build/gtest/googlemock/gtest/CMakeFiles/rebuild_cache.dir
+/home/luz211/acrobot_workspace/build/acrobot/CMakeFiles/install/strip.dir
+/home/luz211/acrobot_workspace/build/acrobot/CMakeFiles/install/local.dir
+/home/luz211/acrobot_workspace/build/acrobot/CMakeFiles/test.dir
+/home/luz211/acrobot_workspace/build/acrobot/CMakeFiles/list_install_components.dir
+/home/luz211/acrobot_workspace/build/acrobot/CMakeFiles/edit_cache.dir
+/home/luz211/acrobot_workspace/build/acrobot/CMakeFiles/_catkin_empty_exported_target.dir
+/home/luz211/acrobot_workspace/build/acrobot/CMakeFiles/rebuild_cache.dir
+/home/luz211/acrobot_workspace/build/acrobot/CMakeFiles/install.dir

@@ -122,6 +122,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/luz211/acrobot_workspace/build/gtest/cmake_install.cmake")
+  include("/home/luz211/acrobot_workspace/build/acrobot/cmake_install.cmake")
 
 endif()
 
